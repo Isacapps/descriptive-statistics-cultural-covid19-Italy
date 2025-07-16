@@ -19,17 +19,17 @@ The project was developed using the R programming language and relies entirely o
 - Analysis type: Descriptive statistics and visual exploration using R
 
 ## Data Sources
-Italian National Institute of Statistics (ISTAT):
+Italian National Institute of Statistics (ISTAT): 
 - Aspetti della Vita Quotidiana – 2019
 - Aspetti della Vita Quotidiana – 2020
 These datasets contain survey responses on lifestyle aspects, including cultural participation by type of activity and demographic characteristics.
 
 ## Project Structure
-Practical_Essay.docx – Written report summarizing the methodology, analysis, and findings
-AVQ_2019.xlsx – Dataset used for the 2019 analysis
-AVQ_2020.xlsx – Dataset used for the 2020 analysis
-Codes.R – R script containing all code used for data cleaning, analysis, and visualization
-README.md – This file
+- Practical_Essay.docx – Written report summarizing the methodology, analysis, and findings
+- AVQ_2019.xlsx – Dataset used for the 2019 analysis
+- AVQ_2020.xlsx – Dataset used for the 2020 analysis
+- Codes.R – R script containing all code used for data cleaning, analysis, and visualization
+- README.md – This file
 
 ## Author
 Isabella Cappiello
